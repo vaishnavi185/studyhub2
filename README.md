@@ -26,7 +26,7 @@ Figma UI – Designed for smooth UX and modern layout
 ### 📸 Preview
 
 <p align="center">
-  <img src=""\Downloads\Untitled design.jpg"" alt="StudyHub UI Preview" width="800"/>
+  <img src=""\Untitled design.jpg"" alt="StudyHub UI Preview" width="800"/>
 </p>
 
 🎨 Figma Design: https://www.figma.com/design/IH7yXrgt7sTpM3jan5SvNy/App-Ui-Softcode?node-id=0-1&t=JaS8ZsPBp0MENMO0-1
