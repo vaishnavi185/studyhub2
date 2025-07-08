@@ -23,7 +23,6 @@ Provider / GetX / Bloc (based on your choice) – For state management
 
 Figma UI – Designed for smooth UX and modern layout
 
-### 📸 Preview
 
 ## 📸 Preview
 
